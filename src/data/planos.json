@@ -1,0 +1,61 @@
+[
+  {
+    "nome": "Starter",
+    "preco": 1990,
+    "periodo": "mês",
+    "descricao": "Ideal para startups e pequenos negócios começando a escalar",
+    "destaque": false,
+    "features": [
+      { "nome": "Até 10.000 contatos", "incluido": true },
+      { "nome": "1 canal de automação", "incluido": true },
+      { "nome": "1 integração com CRM/plataforma", "incluido": true },
+      { "nome": "Suporte por email", "incluido": true },
+      { "nome": "Dashboard básico de métricas", "incluido": true },
+      { "nome": "Onboarding guiado", "incluido": true },
+      { "nome": "Automações multicanal", "incluido": false },
+      { "nome": "IA de qualificação", "incluido": false },
+      { "nome": "Suporte prioritário", "incluido": false }
+    ],
+    "cta": "Começar agora"
+  },
+  {
+    "nome": "Growth",
+    "preco": 4990,
+    "periodo": "mês",
+    "descricao": "Para empresas em crescimento que precisam escalar com previsibilidade",
+    "destaque": true,
+    "features": [
+      { "nome": "Até 100.000 contatos", "incluido": true },
+      { "nome": "Até 3 canais de automação", "incluido": true },
+      { "nome": "Até 5 integrações", "incluido": true },
+      { "nome": "Suporte prioritário (WhatsApp + email)", "incluido": true },
+      { "nome": "Dashboard avançado + relatórios semanais", "incluido": true },
+      { "nome": "Onboarding dedicado + treinamento", "incluido": true },
+      { "nome": "Automações multicanal", "incluido": true },
+      { "nome": "IA de qualificação e scoring", "incluido": true },
+      { "nome": "Otimização mensal com especialista", "incluido": true },
+      { "nome": "Squad dedicado", "incluido": false }
+    ],
+    "cta": "Agendar demonstração"
+  },
+  {
+    "nome": "Scale",
+    "preco": null,
+    "periodo": "customizado",
+    "descricao": "Solução enterprise para operações complexas e alto volume",
+    "destaque": false,
+    "features": [
+      { "nome": "Contatos ilimitados", "incluido": true },
+      { "nome": "Canais ilimitados", "incluido": true },
+      { "nome": "Integrações ilimitadas", "incluido": true },
+      { "nome": "SLA garantido", "incluido": true },
+      { "nome": "Squad dedicado (growth + tech)", "incluido": true },
+      { "nome": "Customizações e desenvolvimentos sob demanda", "incluido": true },
+      { "nome": "Consultoria estratégica mensal", "incluido": true },
+      { "nome": "Acesso a beta features", "incluido": true },
+      { "nome": "Suporte 24/7", "incluido": true }
+    ],
+    "cta": "Falar com especialista"
+  }
+]
+

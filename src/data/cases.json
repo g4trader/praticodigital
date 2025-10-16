@@ -1,0 +1,42 @@
+[
+  {
+    "cliente": "Edtech Startup",
+    "segmento": "Educação Online",
+    "desafio": "Baixa qualificação de leads e CAC alto",
+    "solucao": "Prospecção ativa + Qualificação por IA",
+    "resultados": [
+      { "metrica": "Leads qualificados", "antes": 320, "depois": 918, "variacao": 187 },
+      { "metrica": "CAC", "antes": 450, "depois": 279, "variacao": -38 },
+      { "metrica": "Taxa de conversão L→SQL", "antes": 12, "depois": 28, "variacao": 133 }
+    ],
+    "prazo": "60 dias",
+    "depoimento": "Em 2 meses dobramos o pipeline qualificado e reduzimos drasticamente o custo por lead. O time de vendas nunca trabalhou tão focado."
+  },
+  {
+    "cliente": "E-commerce Moda",
+    "segmento": "Varejo Online",
+    "desafio": "Alto índice de carrinho abandonado",
+    "solucao": "Recuperação de Venda automatizada (email + WhatsApp)",
+    "resultados": [
+      { "metrica": "Receita recuperada", "antes": 0, "depois": 89000, "variacao": null },
+      { "metrica": "Taxa de recuperação", "antes": 0, "depois": 22, "variacao": null },
+      { "metrica": "ROI da automação", "antes": 0, "depois": 780, "variacao": null }
+    ],
+    "prazo": "45 dias",
+    "depoimento": "A recuperação automatizada virou uma máquina de receita incremental. Literalmente dinheiro que estava sendo deixado na mesa."
+  },
+  {
+    "cliente": "SaaS B2B",
+    "segmento": "Software Empresarial",
+    "desafio": "Ciclo de vendas longo e imprevisível",
+    "solucao": "Pré-venda assistida por IA + Automação de follow-ups",
+    "resultados": [
+      { "metrica": "Ciclo de vendas (dias)", "antes": 78, "depois": 56, "variacao": -28 },
+      { "metrica": "Taxa de conversão SQL→Cliente", "antes": 18, "depois": 31, "variacao": 72 },
+      { "metrica": "NPS do processo comercial", "antes": 42, "depois": 78, "variacao": 86 }
+    ],
+    "prazo": "90 dias",
+    "depoimento": "Reduzimos quase um mês do ciclo de vendas e o time agora tem visibilidade total do pipeline. A IA ajuda a priorizar e a conduzir conversas de forma muito mais estratégica."
+  }
+]
+

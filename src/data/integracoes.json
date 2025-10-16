@@ -1,0 +1,22 @@
+[
+  { "nome": "WhatsApp Business", "categoria": "Comunicação", "icone": "MessageCircle" },
+  { "nome": "Instagram", "categoria": "Comunicação", "icone": "Instagram" },
+  { "nome": "Facebook Messenger", "categoria": "Comunicação", "icone": "Facebook" },
+  { "nome": "Telegram", "categoria": "Comunicação", "icone": "Send" },
+  { "nome": "HubSpot", "categoria": "CRM", "icone": "Database" },
+  { "nome": "Salesforce", "categoria": "CRM", "icone": "Cloud" },
+  { "nome": "RD Station", "categoria": "CRM", "icone": "Target" },
+  { "nome": "Pipedrive", "categoria": "CRM", "icone": "GitBranch" },
+  { "nome": "Moskit", "categoria": "CRM", "icone": "Layers" },
+  { "nome": "Shopify", "categoria": "E-commerce", "icone": "ShoppingCart" },
+  { "nome": "WooCommerce", "categoria": "E-commerce", "icone": "ShoppingBag" },
+  { "nome": "Hotmart", "categoria": "Infoprodutos", "icone": "GraduationCap" },
+  { "nome": "Eduzz", "categoria": "Infoprodutos", "icone": "BookOpen" },
+  { "nome": "Kiwify", "categoria": "Infoprodutos", "icone": "Package" },
+  { "nome": "Stripe", "categoria": "Pagamento", "icone": "CreditCard" },
+  { "nome": "Mercado Pago", "categoria": "Pagamento", "icone": "DollarSign" },
+  { "nome": "ActiveCampaign", "categoria": "Automação", "icone": "Zap" },
+  { "nome": "Zendesk", "categoria": "Suporte", "icone": "Headphones" },
+  { "nome": "Intercom", "categoria": "Suporte", "icone": "MessageSquare" }
+]
+

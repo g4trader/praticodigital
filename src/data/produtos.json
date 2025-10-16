@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "prospeccao-de-leads",
+    "titulo": "Prospecção de Leads",
+    "categoria": "Aquisição",
+    "resumo": "Descoberta ativa com dados e sinais de intenção.",
+    "descricao": "Aumente a previsibilidade de vendas com prospecção baseada em dados, enriquecimento de perfil e gatilhos comportamentais.",
+    "icone": "Search",
+    "beneficios": [
+      "Mais leads qualificados",
+      "Menor CAC",
+      "Previsibilidade de pipeline",
+      "Automação de outbound"
+    ],
+    "problema": "Geração inconsistente e pouco qualificada de leads dificulta a previsibilidade e aumenta o custo de aquisição.",
+    "solucao": "Playbooks de prospecção com enriquecimento automático de dados, sinais de intenção de compra e sequências multicanal personalizadas.",
+    "comoFunciona": [
+      "Mapeamento de ICP (Perfil de Cliente Ideal)",
+      "Captura de dados e sinais de intenção",
+      "Sequências de contato multicanal automatizadas",
+      "Otimização contínua baseada em resultados"
+    ],
+    "integracoes": ["LinkedIn", "RD Station", "HubSpot", "Pipedrive", "Apollo"],
+    "faq": [
+      {
+        "pergunta": "Como vocês identificam os leads certos?",
+        "resposta": "Usamos dados firmográficos, tecnográficos e sinais de intenção para mapear empresas que se encaixam no seu ICP e estão no momento ideal de compra."
+      },
+      {
+        "pergunta": "Quanto tempo leva para ver os primeiros resultados?",
+        "resposta": "Primeiros leads qualificados aparecem em 15-30 dias. Ganhos compostos de eficiência e qualidade se consolidam em 60-90 dias."
+      }
+    ]
+  },
+  {
+    "slug": "qualificacao-por-ia",
+    "titulo": "Qualificação por IA",
+    "categoria": "Conversão",
+    "resumo": "Scoring e priorização automáticos (fit + timing).",
+    "descricao": "Qualifique e priorize leads automaticamente com IA, aumentando velocidade de vendas e taxa de conversão.",
+    "icone": "Bot",
+    "beneficios": [
+      "Velocidade de resposta",
+      "Priorização correta",
+      "Mais conversão",
+      "Menos desperdício de tempo"
+    ],
+    "problema": "Leads sem priorização adequada resultam em perda de timing, baixa conversão e desperdício de recursos do time comercial.",
+    "solucao": "Modelos de IA para scoring multicritério (fit, urgência, potencial) com roteamento inteligente e handoff automático para o vendedor certo.",
+    "comoFunciona": [
+      "Coleta de dados comportamentais e firmográficos",
+      "Score automático de fit, urgência e potencial",
+      "Roteamento para o vendedor ideal",
+      "Feedback loop para melhoria contínua do modelo"
+    ],
+    "integracoes": ["Salesforce", "HubSpot", "RD Station", "Pipedrive", "Moskit"],
+    "faq": [
+      {
+        "pergunta": "Como a IA aprende o que é um bom lead?",
+        "resposta": "O modelo analisa histórico de conversões, comportamento de navegação, dados demográficos e feedback do time para aprender padrões de sucesso."
+      },
+      {
+        "pergunta": "Posso ajustar os critérios de qualificação?",
+        "resposta": "Sim, você define pesos personalizados para cada critério (orçamento, fit, timing, etc.) e o modelo se adapta."
+      }
+    ]
+  },
+  {
+    "slug": "automacao-de-atendimento",
+    "titulo": "Automação de Atendimento",
+    "categoria": "Conversão",
+    "resumo": "Bots híbridos com handoff humano, disponíveis 24/7.",
+    "descricao": "Automatize o atendimento em todos os canais (WhatsApp, Instagram, site) sem perder o toque humano.",
+    "icone": "MessageSquare",
+    "beneficios": [
+      "Disponibilidade 24/7",
+      "Respostas instantâneas",
+      "Redução de custo operacional",
+      "Escalabilidade sem fricção"
+    ],
+    "problema": "Atendimento manual não escala, é caro e cria gargalos em horários de pico ou fora do expediente.",
+    "solucao": "Bots inteligentes com NLU (Natural Language Understanding) que respondem dúvidas, qualificam e agendam, com handoff suave para humanos quando necessário.",
+    "comoFunciona": [
+      "Configuração de fluxos e intenções",
+      "Treinamento do bot com base de conhecimento",
+      "Atendimento automatizado com handoff inteligente",
+      "Monitoramento e refinamento contínuo"
+    ],
+    "integracoes": ["WhatsApp Business", "Instagram", "Facebook Messenger", "Telegram", "Webchat"],
+    "faq": [
+      {
+        "pergunta": "O bot consegue entender perguntas complexas?",
+        "resposta": "Sim, usamos NLU avançado para interpretar intenções mesmo com variações de linguagem. Para casos muito específicos, há handoff para humano."
+      },
+      {
+        "pergunta": "Como funciona a transição bot → humano?",
+        "resposta": "O bot detecta quando a conversa exige intervenção humana e transfere, compartilhando todo o contexto da conversa."
+      }
+    ]
+  },
+  {
+    "slug": "pre-venda-vendas",
+    "titulo": "Pré-venda & Vendas",
+    "categoria": "Conversão",
+    "resumo": "Sequências, roteiros e objeções com IA integrada ao CRM.",
+    "descricao": "Acelere o ciclo de vendas com playbooks orientados por IA, roteiros dinâmicos e gestão de objeções automatizada.",
+    "icone": "TrendingUp",
+    "beneficios": [
+      "Ciclo de vendas mais curto",
+      "Taxa de conversão maior",
+      "Padronização de processos",
+      "Insights acionáveis em tempo real"
+    ],
+    "problema": "Processos de vendas inconsistentes, falta de visibilidade de pipeline e dificuldade em lidar com objeções custam conversões.",
+    "solucao": "Plataforma que combina CRM, sequências automatizadas, roteiros de vendas assistidos por IA e análise de conversas para otimização contínua.",
+    "comoFunciona": [
+      "Mapeamento de jornada e etapas de venda",
+      "Criação de roteiros e sequências automatizadas",
+      "Análise de objeções e sugestões de resposta por IA",
+      "Dashboard de performance e coaching em tempo real"
+    ],
+    "integracoes": ["Pipedrive", "Salesforce", "HubSpot", "RD Station", "Moskit", "Zoom", "Meet"],
+    "faq": [
+      {
+        "pergunta": "Como a IA ajuda nas objeções?",
+        "resposta": "A IA analisa gravações e transcrições de chamadas, identifica padrões de objeções e sugere as melhores respostas baseadas em conversões passadas."
+      },
+      {
+        "pergunta": "Preciso migrar de CRM?",
+        "resposta": "Não. Integramos com os principais CRMs do mercado e enriquecemos seu processo atual."
+      }
+    ]
+  },
+  {
+    "slug": "recuperacao-de-venda",
+    "titulo": "Recuperação de Venda",
+    "categoria": "Pós-venda",
+    "resumo": "Fluxos de abandono, reengajamento e ofertas dinâmicas.",
+    "descricao": "Recupere vendas perdidas com automações inteligentes de carrinho abandonado, boletos vencidos e follow-ups personalizados.",
+    "icone": "RefreshCw",
+    "beneficios": [
+      "Aumento de receita sem novos leads",
+      "ROI alto (custo marginal baixo)",
+      "Personalização em escala",
+      "Automação 100% hands-off"
+    ],
+    "problema": "Carrinhos abandonados, boletos não pagos e leads frios representam receita perdida que raramente é recuperada de forma sistemática.",
+    "solucao": "Fluxos multicanal (email, WhatsApp, SMS, push) com ofertas dinâmicas, urgência e personalização baseada em comportamento e histórico.",
+    "comoFunciona": [
+      "Detecção de abandono ou inatividade",
+      "Sequências automatizadas multicanal",
+      "Ofertas e incentivos personalizados",
+      "Análise de performance e otimização A/B"
+    ],
+    "integracoes": ["Shopify", "WooCommerce", "Hotmart", "Eduzz", "Stripe", "PagSeguro", "Mercado Pago"],
+    "faq": [
+      {
+        "pergunta": "Qual o percentual médio de recuperação?",
+        "resposta": "Varia por segmento, mas clientes reportam recuperação de 15-30% de carrinhos abandonados e 20-40% de boletos vencidos."
+      },
+      {
+        "pergunta": "Como vocês personalizam as ofertas?",
+        "resposta": "Analisamos histórico de compras, comportamento de navegação, valor do carrinho e momento do ciclo para sugerir a oferta ideal."
+      }
+    ]
+  },
+  {
+    "slug": "suporte-automatizado",
+    "titulo": "Suporte Automatizado",
+    "categoria": "Pós-venda",
+    "resumo": "Base de conhecimento viva com NLU e satisfação contínua.",
+    "descricao": "Ofereça suporte rápido, preciso e escalável com IA que aprende continuamente e reduz tickets recorrentes.",
+    "icone": "Headphones",
+    "beneficios": [
+      "Redução de tickets em até 60%",
+      "Tempo de resposta < 30s",
+      "Satisfação do cliente maior",
+      "Custo de suporte menor"
+    ],
+    "problema": "Suporte reativo e manual consome recursos, frustra clientes e não escala com o crescimento da base.",
+    "solucao": "Sistema de suporte com IA que responde dúvidas comuns, escalona casos complexos e mantém base de conhecimento sempre atualizada.",
+    "comoFunciona": [
+      "Criação de base de conhecimento estruturada",
+      "Treinamento de IA com histórico de tickets",
+      "Respostas automáticas e self-service",
+      "Melhoria contínua baseada em feedback"
+    ],
+    "integracoes": ["Zendesk", "Intercom", "Freshdesk", "Help Scout", "WhatsApp", "Telegram"],
+    "faq": [
+      {
+        "pergunta": "A IA resolve tudo ou precisa de humanos?",
+        "resposta": "A IA resolve 60-80% dos casos comuns. Casos complexos ou sensíveis são escalados para humanos com contexto completo."
+      },
+      {
+        "pergunta": "Como garantem que as respostas estão certas?",
+        "resposta": "A IA é treinada com sua documentação oficial e aprende com validação humana. Você sempre tem controle sobre o que ela responde."
+      }
+    ]
+  },
+  {
+    "slug": "lancamentos-digitais",
+    "titulo": "Lançamentos Digitais",
+    "categoria": "Lançamentos",
+    "resumo": "Estratégia, copy, criativos, páginas e automações end-to-end.",
+    "descricao": "Execute lançamentos de produtos digitais (cursos, infoprodutos) com estratégia completa e operação automatizada.",
+    "icone": "Rocket",
+    "beneficios": [
+      "Planejamento estratégico completo",
+      "Execução operacional hands-off",
+      "Páginas e funis otimizados",
+      "Pós-lançamento com reengajamento"
+    ],
+    "problema": "Lançamentos complexos exigem coordenação de múltiplos canais, copy persuasivo e automações que muitas vezes falham ou são feitas às pressas.",
+    "solucao": "Metodologia de lançamento ponta a ponta: desde isca digital até pós-venda, com copy profissional, páginas de alta conversão e automações robustas.",
+    "comoFunciona": [
+      "Planejamento e definição de oferta",
+      "Criação de copy, criativos e páginas",
+      "Configuração de automações e integrações",
+      "Execução, monitoramento e otimização em tempo real"
+    ],
+    "integracoes": ["Hotmart", "Eduzz", "Kiwify", "Monetizze", "ActiveCampaign", "Leadlovers"],
+    "faq": [
+      {
+        "pergunta": "Vocês criam o conteúdo do curso também?",
+        "resposta": "Não. Focamos na estratégia de lançamento, copy de vendas, funis e automações. O conteúdo educacional fica a cargo do cliente."
+      },
+      {
+        "pergunta": "Quanto tempo leva para preparar um lançamento?",
+        "resposta": "De 4 a 8 semanas dependendo da complexidade da oferta e do funil."
+      }
+    ]
+  }
+]
+
