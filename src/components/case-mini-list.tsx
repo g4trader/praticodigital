@@ -80,7 +80,7 @@ export function CaseMiniList() {
                       </div>
                     </div>
                     <div className="pt-4 border-t">
-                      <p className="text-sm italic text-muted-foreground">"{caso.depoimento}"</p>
+                      <p className="text-sm italic text-muted-foreground">&ldquo;{caso.depoimento}&rdquo;</p>
                     </div>
                   </div>
                 </CardContent>
