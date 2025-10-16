@@ -8,7 +8,6 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
-import { Checkbox } from '@/components/ui/checkbox'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Loader2, CheckCircle2 } from 'lucide-react'
 
@@ -36,13 +35,9 @@ export function ContactForm() {
     handleSubmit,
     formState: { errors },
     reset,
-    setValue,
-    watch,
   } = useForm<FormData>({
     resolver: zodResolver(formSchema),
   })
-
-  const lgpd = watch('lgpd')
 
   const onSubmit = async (data: FormData) => {
     setIsSubmitting(true)
@@ -159,10 +154,11 @@ export function ContactForm() {
             </div>
 
             <div className="flex items-start gap-2">
-              <Checkbox
+              <input
+                type="checkbox"
                 id="lgpd"
-                checked={lgpd}
-                onCheckedChange={(checked) => setValue('lgpd', checked as boolean)}
+                {...register('lgpd')}
+                className="h-4 w-4 mt-1 rounded border-gray-300 text-primary focus:ring-primary"
               />
               <Label htmlFor="lgpd" className="text-sm leading-relaxed cursor-pointer">
                 Concordo em receber comunicações da Prático Digital e aceito a{' '}
